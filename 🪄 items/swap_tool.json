@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom:swap_tool",
+      "category": "Misc",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:icon": "stick",
+      "minecraft:display_name": {
+        "value": "Swap Tool"
+      }
+    }
+  }
+}
