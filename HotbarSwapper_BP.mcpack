@@ -1,0 +1,7 @@
+HotbarSwapper_BP.mcpack/
+├── manifest.json
+├── items/
+│   └── swap_tool.json
+├── scripts/
+│   └── main.js
+└── config.json
